@@ -4,7 +4,7 @@
 
 效果：安卓端打开Youtube：
 
-![android_browser_youtube](../../assets/img/android_browser_youtube.png)
+![android_browser_youtube](../../assets/img/android_browser_youtube.jpg)
 
 然后Mac端Reqable中可以抓包到流量：
 

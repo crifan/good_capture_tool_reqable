@@ -12,6 +12,16 @@
 * 【记录】安卓端Reqable实现移动端的抓包：用Mac端的Trojan翻墙代理
 * 【记录】Mac中如何设置网络的代理：Reqable和Trojan
 * 【已解决】Mac和Android协同模式加Mac中二级代理实现抓包且支持访问外网
+* 【基本解决】Mac中使用Reqable抓包时导致Mac端Trojan和安卓端Clash的代理失效无法翻墙上网
+* 【基本解决】Mac中给Reqable解决翻墙代理冲突问题：使用二级代理
+* 【规避解决】Mac中Reqable添加二级代理后安卓端的微信等请求无法返回
+* 【记录】安卓端Reqable登录已购买的付费注册账号
+* 【记录】Mac中付费购买Reqable专业版
+* 【记录】Mac中尝试抓包工具：Reqable
+*  win抓包工具：Reqable
+*  【记录】逆向ClaudeCode：sub3中抓包OAuth和全流程
+* 【记录】逆向ClaudeCode：sub3中测试全流程①和②的抓包
+* 【记录】逆向ClaudeCode：sub3中给mitmproxy加上链式代理后再测试全流程①和②的抓包
 * 
 * [Reqable - 先进API生产力工具 - Google Play 上的应用](https://play.google.com/store/apps/details?id=com.reqable.android&hl=zh&pli=1)
 * [Android | Reqable · API抓包调试 + API测试一站式工具](https://reqable.com/zh-CN/android/)

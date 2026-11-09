@@ -5,6 +5,7 @@
 * [下载和安装](download_install/README.md)
   * [PC端](download_install/pc/README.md)
     * [Mac](download_install/pc/mac.md)
+    * [Win](download_install/pc/win.md)
   * [移动端](download_install/mobile/README.md)
     * [iPhone](download_install/mobile/iphone.md)
     * [Android](download_install/mobile/android.md)

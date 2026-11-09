@@ -54,7 +54,7 @@ curl -X POST 'https://android.googleapis.com/checkin' -H 'User-Agent: Dalvik/2.1
 
 ### Mac配合iPhone协同抓包
 
-* TextNow
+#### TextNow
 
 继续配合Mac端的Reqable，去给TextNow抓包，就可以了：
 
@@ -62,6 +62,12 @@ curl -X POST 'https://android.googleapis.com/checkin' -H 'User-Agent: Dalvik/2.1
 
 ![mac_capture_textnow_2](../../assets/img/mac_capture_textnow_2.png)
 
-* Youtube
+#### Youtube
 
 ![mac_capture_youtube](../../assets/img/mac_capture_youtube.png)
+
+#### Velumbraqua
+
+![mac_capture_velumbraqua](../../assets/img/mac_capture_velumbraqua.png)
+
+![mac_capture_velumbraqua_ipinfo](../../assets/img/mac_capture_velumbraqua_ipinfo.png)
